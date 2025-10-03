@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Envs & IDE
+.venv/
+.venv311/
+.vscode/
+
+# Data / outputs
+outputs/
+.cache/
+*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
